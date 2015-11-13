@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="statTracker">
+</Property><Property Name="Solution File" Value="C:\programming\statTracker\statTracker\statTracker.sln">
+</Property><Property Name="User Options File" Value="C:\programming\statTracker\statTracker\statTracker.suo">
+</Property><Property Name="Date" Value="Friday, February 04, 2011">
+</Property><Property Name="Time" Value="8:27 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="statTracker.sln" Description="File successfully backed up as C:\programming\statTracker\statTracker\statTracker.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="statTracker.suo" Description="File successfully backed up as C:\programming\statTracker\statTracker\statTracker.suo.old">
+</Event><Event ErrorLevel="0" Project="statTracker" Source="statTracker\statTracker.vcproj" Description="Converting project file 'C:\programming\statTracker\statTracker\statTracker\statTracker.vcproj'.">
+</Event><Event ErrorLevel="1" Project="statTracker" Source="statTracker\statTracker.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="statTracker" Source="statTracker\statTracker.vcproj" Description="Done converting to new project file 'C:\programming\statTracker\statTracker\statTracker\statTracker.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="statTracker" Source="statTracker\statTracker.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="statTracker.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="statTracker.sln" Description="Converted">
+</Event></UpgradeLog>
